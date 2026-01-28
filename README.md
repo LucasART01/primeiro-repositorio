@@ -51,3 +51,5 @@ Existem 2 arquivos de banco de dados: relacionais ( mySQl ) e não relacionais
 Os bancos relacionais usam a linguagem SQL -> 'siquel' - Structured Query Language - Linguagem Estruturada de Consultas
 
 https://onecompiler.com/mysql
+
+eu amo café
